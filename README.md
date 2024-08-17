@@ -14,6 +14,12 @@ Needless to say, that was a very wrong assumption.
 Modern Fortran is a very down to business language. It's a delight to use. You get a low level language with high level concepts. When you need to talk to C for things Fortran has no concept of (like file systems), it's easy. It also seems to be an **extremely** fast language to top it off.
 
 
+# How to view this tutorial:
+
+Tutorial 1 and 2 are in the root of this. But to see the rest, follow these links for the Markdown files and accompanying source code.
+
+
+
 # Notes:
 
 Implicit save: (Thanks to Verlio_H for notifying that this is a common pitfall)

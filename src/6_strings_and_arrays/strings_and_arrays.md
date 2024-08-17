@@ -1,4 +1,4 @@
-# Fortran strings
+# Strings and Arrays
 
 Difference between:
 
