@@ -18,7 +18,7 @@ Modern Fortran is a very down to business language. It's a delight to use. You g
 
 Tutorial 1 and 2 are in the root of this. But to see the rest, follow these links for the Markdown files and accompanying source code.
 
-
+todo: put all the links here
 
 # Notes:
 
