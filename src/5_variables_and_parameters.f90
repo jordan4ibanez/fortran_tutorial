@@ -106,8 +106,6 @@ contains
   end subroutine cool_c_types
 
 
-
-
   ! This part is so you don't see yellow unused warnings all over the place. :)
   subroutine turn_off_warnings()
     implicit none
