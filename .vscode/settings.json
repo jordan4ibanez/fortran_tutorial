@@ -1,0 +1,6 @@
+{
+  "fortran.formatting.formatter": "findent",
+  "fortran.formatting.findentArgs": [
+    "-i2"
+  ],
+}
