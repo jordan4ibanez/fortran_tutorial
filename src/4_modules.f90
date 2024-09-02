@@ -11,7 +11,7 @@ module modules
   ! You cannot, let's say import A to B, then B to A. This is a cyclical dependency.
 
   ! You can have module level `implicit none`.
-  ! We will get to `implicit none` in `5_variables.f90`.
+  ! We will get to `implicit none` in `5_variables_and_parameters.f90`.
   implicit none
 
 
@@ -32,6 +32,7 @@ contains
 ! end module module_name
 !
 ! I always use the last option as it helps me navigate with multiple modules in a single file.
+! You will see this throughout this tutorial.
 end module modules
 
 ! And yes, you can have multiple modules in a single file.
